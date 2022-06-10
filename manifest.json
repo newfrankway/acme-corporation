@@ -1,9 +1,0 @@
-{
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
-  "start_url": "/",
-  "scope": "/",
-  "theme_color": "#4f46e5",
-  "background_color": "#4f46e5",
-  "display": "standalone"
-}
